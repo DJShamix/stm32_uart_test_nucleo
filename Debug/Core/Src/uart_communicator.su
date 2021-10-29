@@ -1,0 +1,6 @@
+uart_communicator.c:27:6:uart_helper_init	8	static
+uart_communicator.c:36:6:send_message	120	static
+uart_communicator.c:49:6:parse_message	168	static
+uart_communicator.c:115:6:HAL_UART_RxCpltCallback	128	static
+uart_communicator.c:145:6:check_commands	16	static
+uart_communicator.c:209:6:uart_do_work	4	static
